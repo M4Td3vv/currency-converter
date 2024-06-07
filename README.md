@@ -11,18 +11,15 @@ A simple web-based currency converter that allows you to convert amounts between
 
 ## Screenshots
 
-![Currency Converter Light Mode](screenshots/light-mode.png)
-![Currency Converter Dark Mode](screenshots/dark-mode.png)
+![Currency Converter Light Mode]()
+![Currency Converter Dark Mode](
 
-## Demo
-
-You can view a live demo of the Currency Converter [here](https://your-demo-link.com).
 
 ## Installation
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/currency-converter.git
+    git clone https://github.com/yaed3v/currency-converter.git
     cd currency-converter
     ```
 
