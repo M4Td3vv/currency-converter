@@ -11,8 +11,8 @@ A simple web-based currency converter that allows you to convert amounts between
 
 ## Screenshots
 
-![Currency Converter Light Mode]()
-![Currency Converter Dark Mode]()
+![Currency Converter Light Mode](light mode currency.png)
+![Currency Converter Dark Mode](dark mode currency.png)
 
 
 ## Installation
