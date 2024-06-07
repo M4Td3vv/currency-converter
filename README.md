@@ -12,8 +12,7 @@ A simple web-based currency converter that allows you to convert amounts between
 ## Screenshots
 
 ![Currency Converter Light Mode](https://media.discordapp.net/attachments/1230246598353616918/1248713369951670362/image.png?ex=6664aa73&is=666358f3&hm=887a5d50f05414947493d70fe0ca75d4bebf5d8cc23376a173febcc759285547&=&format=webp&quality=lossless&width=1436&height=671)
-![Currency Converter Dark Mode]([https://cdn.discordapp.com/attachments/1230246598353616918/1248713369951670362/image.png?ex=6664aa73&is=666358f3&hm=887a5d50f05414947493d70fe0ca75d4bebf5d8cc23376a173febcc759285547&](https://media.discordapp.net/attachments/1230246598353616918/1248713320006156299/image.pngex=6664aa67&is=666358e7&hm=c93fab89d23065460480b7371df0ded33fdb4140c313a03e85d82d3d4c4789d8&=&format=webp&quality=lossless&width=1367&height=671
-))
+![Currency Converter Dark Mode](https://media.discordapp.net/attachments/1230246598353616918/1248713320006156299/image.png?ex=6664aa67&is=666358e7&hm=c93fab89d23065460480b7371df0ded33fdb4140c313a03e85d82d3d4c4789d8&=&format=webp&quality=lossless&width=1367&height=671)
 
 ## Installation
 
